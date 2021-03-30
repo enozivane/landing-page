@@ -1,6 +1,6 @@
 # Landing Pages Bersama
 
-Progress : ![10%](https://progress-bar.dev/10)
+PROGRESS: ![10%](https://progress-bar.dev/10)
 
 Style : Fancy Flat Design
 
